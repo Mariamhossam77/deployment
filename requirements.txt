@@ -1,4 +1,0 @@
-gunicorn
-numpy
-flask
-os
